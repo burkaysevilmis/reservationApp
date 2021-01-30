@@ -1,0 +1,58 @@
+[
+  {
+    id: 1,
+    hotelName: 'Hilton Otel',
+    hotelImg:
+      'https://imgcy.trivago.com/c_lfill,d_dummy.jpeg,e_sharpen:60,f_auto,h_450,q_auto,w_450/itemimages/25/88/25887_v10.jpeg',
+    price: 299,
+    value:0,
+  },
+  {
+    id: 2,
+    hotelName: 'Divan Otel',
+    hotelImg:
+      'https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/itemimages/37/52/37521_v14.jpeg',
+    price: 189,
+    value:0,
+  },
+  {
+    id: 3,
+    hotelName: 'Radison Blue Otel',
+    hotelImg:
+      'https://img.otelz.com/s3/turkiye/istanbul/sariyer/radisson-blu-hotel-vadistanbul-a02674bd.png',
+    price: 129,
+    value:0,
+  },
+  {
+    id: 4,
+    hotelName: 'Ramada Plaza Otel',
+    hotelImg:
+      'https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_650,q_auto,w_1000/itemimages/31/36/3136613_v2.jpeg',
+    price: 179,
+    value:0,
+  },
+  {
+    id: 5,
+    hotelName: 'Dedeman Otel',
+    hotelImg:
+      'https://tatilsepeti.cubecdn.net/Files/TesisResim/04805/tsr04805636893644432075051.jpg',
+    price: 149,
+    value:0,
+  },
+  {
+    id: 6,
+    hotelName: 'Crowne Plaza Otel',
+    hotelImg:
+      'https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/itemimages/29/30/29306_v5.jpeg',
+    price: 399,
+    value:0,
+  },
+  {
+    id: 7,
+    hotelName: 'Arena Otel',
+    hotelImg:
+      'https://tatilsepeti.cubecdn.net/Files/TesisResim/03502/tsr03502636950913381399090.jpg',
+    price: 119,
+    value:0,
+  },
+];
